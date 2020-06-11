@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eQ7vsueoLa981e9eYkbP+Ny7VgZbd3e4qKl/bDkGIk1r3oKTbKUUz62KZtEuayr9OEzvAuKJw8XjsmlQO2pt9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Brian Irizarry\\OneDrive\\Deliverable 1\\Deliverable 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brian Irizarry\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
